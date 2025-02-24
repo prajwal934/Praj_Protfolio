@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 //Basic styles import
 import styles from './styles/navbar.module.scss';
-// import NowPlaying from 'components/addons/Spotify';
+import NowPlaying from 'components/addons/Spotify';
 
 export default function Navbar() {
   return (
@@ -13,7 +13,7 @@ export default function Navbar() {
           <Link href="/">prajwal..</Link>
         </h1>
 
-        {/* <NowPlaying /> */}
+        <NowPlaying />
       </div>
     </nav>
   );
