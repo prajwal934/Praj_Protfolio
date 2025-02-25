@@ -42,7 +42,7 @@ export const projectData: IProject[] = [
     description:
       'A Backend Developer Showcase his Profile to Tech.',
     tags: 'NextJS + Typescript + SCSS',
-    url: 'https://qilo.co',
+    url: 'https://prajdev.vercel.app/',
   },
   
 ];
