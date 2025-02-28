@@ -1,5 +1,4 @@
-## Pariola
+## prajwal
 
-Creative Frontend Engineer
-
-This Portfolio [pariola.dev](https://pariola.dev) is inspired by [olaolu.dev](https://olaolu.dev).
+"I'm a Java Developer from India, specializing in Spring Boot & Spring Security. Explore my best projects pinned here! 🚀"
+https://prajdev.vercel.app/
