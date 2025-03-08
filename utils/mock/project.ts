@@ -6,7 +6,7 @@ export const projectData: IProject[] = [
     name: 'Hotel Management System',
     description: 'Review, Rating , Enjoy Food!',
     tags: 'Java + microservices',
-    url: 'https://github.com/prajwal934/Hotel_Management_System_API',
+    url: 'https://github.com/prajwal934/HotelHive_API',
   },
   {
     id: 2,
