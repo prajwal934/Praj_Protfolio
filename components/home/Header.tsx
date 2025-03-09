@@ -26,7 +26,7 @@ export default function Header() {
             </p>
 
             <p id="h1BG">
-              Over a three years of experience building products for clients
+              Over a two years of experience building products for clients
               across india.
             </p>
           </div>
