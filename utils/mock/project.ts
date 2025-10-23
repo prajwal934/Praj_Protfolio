@@ -33,7 +33,7 @@ export const projectData: IProject[] = [
     id: 5,
     name: 'CMS',
     description: 'Write Content and Blog Application',
-    tags: 'Spring + Java + MySQL + AWS',
+    tags: 'Spring + Java + AWS',
     url: 'https://github.com/prajwal934/Blog_Management_System',
   },
   {
